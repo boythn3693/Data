@@ -1,0 +1,16 @@
+http://192.168.16.45:8990/login?language=vietnamese
+syshung
+^&*(0NgoaLong
+0071
+
+
+
+-------------------------------------------------------
+E:\Southtelecom\kim_worldfone\application\controllers\customers\customerDetail.php ---- 886
+
+
+
+IP: vpn.m-ocb.com.vn:4433 (or vpn2.m-ocb.com.vn:4433)
+User: southtel
+Password: Vie64ntho6ng@17KDC
+Domain: kdc.vn

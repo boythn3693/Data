@@ -1,0 +1,14 @@
+test01@aipacific.vn
+As-1122@@
+
+test02@aipacific.vn
+Abcd@1234
+
+
+test02@aipacific.vn
+test03@aipacific.vn
+doctor.test@aipacific.vn
+reception.test@aipacific.vn
+
+Username: sysadmin
+Password: pbx@KIM!
